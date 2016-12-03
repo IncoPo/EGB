@@ -34,3 +34,42 @@ crusading ai
 stats:
 	d&d style
 	
+	
+	
+	
+Weather:
+sunny
+rainy
+cloudy
+
+Story Events:
+A dragon sets a nearby field on fire. The locals set out the fire but you still get burned -growth -health
+
+Merlin sat under you and smoked his pipe roll to increase growth/avoid forest fire (-health)
+
+A goblin passes by what does /*insert name here*/ do? roll to increase growth slightly
+
+A human passes by, what does /*insert name here*/ do? roll to increase growth/derease public opinion. 
+
+A cow thinks you're tasty, roll to keep growth stat
+
+a cow poops on you, roll to increase growth stat
+
+a fairy passes by and some dust lands on you roll to increase growth 
+
+The locals start a war and you are in the middle of it -health per turn
+
+hostile insects nest in /*insert name here */ choice/chance to enchant them? 
+
+
+
+
+
+
+
+
+
+
+
+	
+	
