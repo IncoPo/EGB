@@ -15,21 +15,8 @@ plant (tree)
 	reproduction
 	likability
 	(attack/sp attack)
-	(movement)
 	
-crusading ai
-	memory
-	cpu
-	heat
-	- public opinion
-	- worm
-	- fisch
-	- virus
 	
-	revinue
-	defence
-	capacity to do things
-	health
 	
 stats:
 	d&d style
@@ -41,6 +28,9 @@ Weather:
 sunny
 rainy
 cloudy
+
+drought
+flood
 
 Story Events:
 A dragon sets a nearby field on fire. The locals set out the fire but you still get burned -growth -health
@@ -60,6 +50,12 @@ a fairy passes by and some dust lands on you roll to increase growth
 The locals start a war and you are in the middle of it -health per turn
 
 hostile insects nest in /*insert name here */ choice/chance to enchant them? 
+
+holy hand grenade used to defeat scary rabbit near you - health
+
+one of your branches is chopped off to make a whipping post -
+
+Bard plays songs near you, people gather weekly + health per turn
 
 
 
