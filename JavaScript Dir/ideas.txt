@@ -1,0 +1,36 @@
+starting sequence: base stats
+
+
+plant (tree)
+	energy
+	mutation
+	- mana
+	- carnivorous
+	- posion/defenses
+	- bug army
+	
+	durability
+	defence
+	growth
+	reproduction
+	likability
+	(attack/sp attack)
+	(movement)
+	
+crusading ai
+	memory
+	cpu
+	heat
+	- public opinion
+	- worm
+	- fisch
+	- virus
+	
+	revinue
+	defence
+	capacity to do things
+	health
+	
+stats:
+	d&d style
+	
